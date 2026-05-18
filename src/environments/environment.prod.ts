@@ -1,4 +1,4 @@
 export const environment = {
     production: true,
-    apiUrl: 'https://enero-backend-api.onrender.com'
+    apiUrl: 'https://typescript-crud-api.vercel.app'
 };
